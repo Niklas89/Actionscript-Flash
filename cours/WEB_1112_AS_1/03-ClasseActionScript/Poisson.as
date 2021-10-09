@@ -1,0 +1,1 @@
+﻿package{	import flash.display.MovieClip;	import flash.events.Event;		public class Poisson extends MovieClip{				public function Poisson(){			addEventListener(Event.ENTER_FRAME, onPoisson);		} 				private function onPoisson(e:Event):void {			this.x += this.mouseX /15;			//this.y += this.mouseY /15;		}	}}

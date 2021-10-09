@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<racine><![CDATA[
+<h1>Paris</h1><span class='titreNiveau1'>La capitale de la France</span>
+<p>La ville lumière est une ville...</p>
+<img src='img/logo.png'>
+<h1>Londres</h1><span class='titreNiveau1'>La capitale de la Grande Bretagne</span>
+<p>Son oeil, grand et rond...</p>
+]]></racine>

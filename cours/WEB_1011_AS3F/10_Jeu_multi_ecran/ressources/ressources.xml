@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tirAuPigeon>
+    <parametres>
+        <titre font="Arial" size="40"><![CDATA[Bal trap]]></titre>
+    </parametres>
+    <niveaux>
+        <niveau>
+            <pointsMax><![CDATA[100]]></pointsMax>
+            <vitesseCreationCible><![CDATA[2500]]></vitesseCreationCible>
+            <aleatoire><![CDATA[8]]></aleatoire>
+        </niveau>
+        
+        <niveau>
+            <pointsMax><![CDATA[250]]></pointsMax>
+            <vitesseCreationCible><![CDATA[2000]]></vitesseCreationCible>
+            <aleatoire><![CDATA[12]]></aleatoire>
+        </niveau>
+        
+        <niveau>
+            <pointsMax><![CDATA[400]]></pointsMax>
+            <vitesseCreationCible><![CDATA[1000]]></vitesseCreationCible>
+            <aleatoire><![CDATA[15]]></aleatoire>
+        </niveau>
+        
+        <niveau>
+            <pointsMax><![CDATA[550]]></pointsMax>
+            <vitesseCreationCible><![CDATA[500]]></vitesseCreationCible>
+            <aleatoire><![CDATA[20]]></aleatoire>
+        </niveau>
+        
+    </niveaux>
+</tirAuPigeon>
