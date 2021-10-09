@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+	<users project="solo" url="http://www.lionel-tardy.com" description="Formation AS3">
+	<user pseudo="pierre">
+	<age>29</age>
+	<url>http://www.pierre.net</url>
+	<cv><![CDATA[ <b>Pierre</b><br />Age: 29 ans]]></cv>
+	</user>
+	<user pseudo="brigitte">
+	<age>29</age>
+	<url>http://www.brigitte.free.fr</url>
+	</user>
+	<user pseudo="Hervé">
+	<age>23</age>
+	<url>http://www.weblog-oziko.com</url>
+	</user>
+	<user pseudo="Jean-Philippe">
+	<age>29</age>
+	<url>http://www.philipe.free.fr</url>
+	</user>
+	<user pseudo="lionel">
+	<age>45</age>
+	<url>http://www.lionel-tardy.com</url>
+	</user>
+	</users>
+	
+	<blacklist>
+	<user pseudo="toto" />
+	</blacklist>
+	
+	</root>
+	
+	
+	

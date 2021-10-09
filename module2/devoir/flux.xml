@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<racine>
+    <fluxs>
+        <flux>
+            <nom data="Frandroid"/>
+            <url data="http://feeds.feedburner.com/frandroid"/>
+        </flux>
+        <flux>
+            <nom data="Libération"/>
+            <url data="http://liberation.fr.feedsportal.com/c/32268/fe.ed/rss.liberation.fr/rss/9/"/>
+        </flux>
+        <flux>
+            <nom data="Le Monde"/>
+            <url data="http://www.lemonde.fr/rss/fil/0,57-0,64-1100142,0.xml"/>
+        </flux>
+        <flux>
+            <nom data="Journal du Geek"/>
+            <url data="http://feeds2.feedburner.com/LeJournalduGeek"/>
+        </flux>
+        <flux>
+            <nom data="Capital"/>
+            <url data="http://www.capital.fr/rss2/feed/fil-bourse.xml"/>
+        </flux>
+        <flux>
+            <nom data="le Figaro"/>
+            <url data="http://www.lefigaro.fr/rss/figaro_tauxetdevises.xml"/>
+        </flux>
+    </fluxs>
+</racine>

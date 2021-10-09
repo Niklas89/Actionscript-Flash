@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+	<users project="solo" url="http://www.lionel-tardy.com" description="Formation AS3">
+	<user pseudo="Frandroid">
+	<age>29</age>
+	<url>http://feeds.feedburner.com/frandroid</url>
+	<cv><![CDATA[ <b>Pierre</b><br />Age: 29 ans]]></cv>
+	</user>
+	<user pseudo="Libération">
+	<age>29</age>
+	<url>http://liberation.fr.feedsportal.com/c/32268/fe.ed/rss.liberation.fr/rss/9/</url>
+	</user>
+	<user pseudo="Le Monde">
+	<age>23</age>
+	<url>http://www.lemonde.fr/rss/fil/0,57-0,64-1100142,0.xml</url>
+	</user>
+	<user pseudo="Journal du Geek">
+	<age>29</age>
+	<url>http://feeds2.feedburner.com/LeJournalduGeek</url>
+	</user>
+	<user pseudo="Capital">
+	<age>45</age>
+	<url>http://www.capital.fr/rss2/feed/fil-bourse.xml</url>
+	</user>
+	<user pseudo="le Figaro">
+	<age>45</age>
+	<url>http://www.lefigaro.fr/rss/figaro_tauxetdevises.xml</url>
+	</user>
+	</users>
+	
+	<blacklist>
+	<user pseudo="toto" />
+	</blacklist>
+	
+	</root>
+	
+	
+	
