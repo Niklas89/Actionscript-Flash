@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PLAYLIST IMG_LARGEUR="125" IMG_HAUTEUR="70" IMGS_X="10" IMGS_Y="10" VIDEO_X="300" VIDEO_Y="10" >
+<VIDEO TITRE="ABL" IMG="imgs/ABL.jpg" URL="_flv/ABL.flv"/>
+<VIDEO TITRE="BLIS" IMG="imgs/BLIS.jpg" URL="_flv/BLIS.flv"/>
+<VIDEO TITRE="Center_Console" IMG="imgs/Center_Console.jpg" URL="_flv/Center_Console.flv"/>
+<VIDEO TITRE="Load_Securing_Net" IMG="imgs/Load_Securing_Net.jpg" URL="_flv/Load_Securing_Net.flv"/>
+</PLAYLIST>
